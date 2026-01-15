@@ -18,3 +18,14 @@ A simple Python-based web scraper that extracts tabular data from websites and c
 - Requests
 - BeautifulSoup (bs4)
 - Pandas
+
+
+---
+
+## Installation
+```bash
+git clone https://github.com/abhijaykashyap-pixel/web-scraper.git
+cd web-scraper
+pip install -r requirements.txt
+
+python scraper.py
